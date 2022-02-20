@@ -1,4 +1,5 @@
 const inquirer = require("inquirer");
+const fs = require("fs");
 const generateMarkdown = require("./utils/generateMarkdown");
 
 // TODO: Create an array of questions for user input
@@ -88,11 +89,29 @@ const promptUser = () => {
 };
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+function writeToFile(fileName, data) {
+  return new Promise((resolve, reject) => {
+    fs.writeFile(fileName, data, (err) => {
+      if (err) {
+        reject(err);
+        return;
+      }
+
+      resolve({
+        ok: true,
+        message: "File created!",
+      });
+    });
+  });
+}
 
 // TODO: Create a function to initialize app
 function init() {
-  promptUser();
+  promptUser().then((data) => {
+    const pageREADME = generateMarkdown(data);
+
+    writeToFile("./dist/README.md", pageREADME);
+  });
 }
 
 // Function call to initialize app
