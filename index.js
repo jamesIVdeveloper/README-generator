@@ -131,7 +131,7 @@ function init() {
   promptUser().then((data) => {
     const pageREADME = generateMarkdown(data);
 
-    writeToFile("./dist/README.md", pageREADME);
+    writeToFile("./README.md", pageREADME);
   });
 }
 

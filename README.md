@@ -1,5 +1,5 @@
 
-    # ieubve
+    # Run Buddy
 
     ## Table of Contents
     1. [Description.](#desc)
@@ -12,30 +12,30 @@
 
     <a name="desc" />
     ## Description
-    sieuvbie
+    App for avid runners
 
     <a name="install" />
     ## Installation
-    sieauvbse 
+    Download it and run it 
 
     <a name="usage" />
     ## Usage 
-    akerubv
+    Use 
 
     <a name="cont" />
     ## Contributing
-    aekrb
+    Contribute
 
     <a name="test" />
     ## Tests
-    aierb
+    Test
 
     <a name="lisc" />
     ## License
-    Covered under MIT,Apache,GPL
+    Covered under MIT
 
     <a name="ques" />
     ## Questions
-    My GitHub is: aeiurbv
-    You can find it [here](aerib)
-    You can also email me here: aeirb
+    My GitHub is: jimmygit
+    You can find it [here](jimmygit.com)
+    You can also email me here: jimmy@gmail.com
