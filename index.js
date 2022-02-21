@@ -85,6 +85,27 @@ const promptUser = () => {
         }
       },
     },
+    {
+      type: "checkbox",
+      name: "license",
+      message: "Choose a license",
+      choices: ["MIT", "Apache", "GPL"],
+    },
+    {
+      type: "input",
+      name: "githubName",
+      message: "Please provide your GitHub username",
+    },
+    {
+      type: "input",
+      name: "githubLink",
+      message: "Please provide your github account link",
+    },
+    {
+      type: "input",
+      name: "email",
+      message: "Please provide your email address",
+    },
   ]);
 };
 
