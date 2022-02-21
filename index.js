@@ -132,7 +132,7 @@ function init() {
     console.log(data);
     const pageREADME = generateMarkdown(data);
 
-    writeToFile("./README.md", pageREADME);
+    writeToFile("./dist/README.md", pageREADME);
   });
 }
 

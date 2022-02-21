@@ -1,5 +1,5 @@
 
-    # Run Buddy
+    # akdb
 
     ## Table of Contents
     1. [Description.](#desc)
@@ -12,32 +12,32 @@
 
     <a name="desc" />
     ## Description
-    App for runners
+    aieubv
 
     <a name="install" />
     ## Installation
-    Download to local computer and run it locally using node 
+    aieub 
 
     <a name="usage" />
     ## Usage 
-    Used for avid runners
+    aierub
 
     <a name="cont" />
     ## Contributing
-    Contribute what you would like
+    aiuerbv
 
     <a name="test" />
     ## Tests
-    Test 
+    aierbv
 
     
     <a name="lisc" />
     ## License
-    Covered under Apache
+    Covered under MIT
   
 
     <a name="ques" />
     ## Questions
-    My GitHub is: jimmgit
-    You can find it [here](jimmygit.com)
-    You can also email me here: jimmy@gmail.com
+    My GitHub is: aeivub
+    You can find it [here](aieubv)
+    You can also email me here: aeiuv
