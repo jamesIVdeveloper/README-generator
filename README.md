@@ -12,30 +12,32 @@
 
     <a name="desc" />
     ## Description
-    App for avid runners
+    App for runners
 
     <a name="install" />
     ## Installation
-    Download it and run it 
+    Download to local computer and run it locally using node 
 
     <a name="usage" />
     ## Usage 
-    Use 
+    Used for avid runners
 
     <a name="cont" />
     ## Contributing
-    Contribute
+    Contribute what you would like
 
     <a name="test" />
     ## Tests
-    Test
+    Test 
 
+    
     <a name="lisc" />
     ## License
-    Covered under MIT
+    Covered under Apache
+  
 
     <a name="ques" />
     ## Questions
-    My GitHub is: jimmygit
+    My GitHub is: jimmgit
     You can find it [here](jimmygit.com)
     You can also email me here: jimmy@gmail.com

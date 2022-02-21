@@ -129,6 +129,7 @@ function writeToFile(fileName, data) {
 // TODO: Create a function to initialize app
 function init() {
   promptUser().then((data) => {
+    console.log(data);
     const pageREADME = generateMarkdown(data);
 
     writeToFile("./README.md", pageREADME);
