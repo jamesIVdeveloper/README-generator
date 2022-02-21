@@ -1,5 +1,5 @@
 
-    # akdb
+    # Park Finder
 
     ## Table of Contents
     1. [Description.](#desc)
@@ -12,23 +12,23 @@
 
     <a name="desc" />
     ## Description
-    aieubv
+    app that finds state parks based on location input
 
     <a name="install" />
     ## Installation
-    aieub 
+    just search and enjoy 
 
     <a name="usage" />
     ## Usage 
-    aierub
+    search limit on park api
 
     <a name="cont" />
     ## Contributing
-    aiuerbv
+    contirbute what you would like
 
     <a name="test" />
     ## Tests
-    aierbv
+    test new code
 
     
     <a name="lisc" />
@@ -38,6 +38,6 @@
 
     <a name="ques" />
     ## Questions
-    My GitHub is: aeivub
-    You can find it [here](aieubv)
-    You can also email me here: aeiuv
+    My GitHub is: jimmygit
+    You can find it [here](jimmygit.com)
+    You can also email me here: jimmy@gmail.com
